@@ -11,6 +11,3 @@ class pet extends person {
         return $a;
     }
 }
-
-$object = new pet;
-var_dump($object); 
